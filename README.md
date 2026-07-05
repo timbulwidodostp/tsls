@@ -1,6 +1,8 @@
 # tsls
 Two-Stage Least Squares (TSLS) Use tsls (sem) With (In) R Software
 
+https://www.youtube.com/watch?v=GjB7_knmFG4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
